@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<FeatureStatistics>
+    <Statistic name="mean">
+        <StatisticVector value="112.025" />
+        <StatisticVector value="128.03" />
+        <StatisticVector value="117.298" />
+        <StatisticVector value="154.044" />
+    </Statistic>
+    <Statistic name="stddev">
+        <StatisticVector value="51.8466" />
+        <StatisticVector value="44.9342" />
+        <StatisticVector value="36.8558" />
+        <StatisticVector value="53.813" />
+    </Statistic>
+</FeatureStatistics>
