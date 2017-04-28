@@ -1,4 +1,4 @@
-## Step 2: Manually label regions for interest to prepare for training a classification model, with some help from QGIS Python scripting
+## Part 2: Manually label regions for interest to prepare for training a classification model, with some help from QGIS Python scripting
 
 > Modules used: qgis.core, qgis.utils
 

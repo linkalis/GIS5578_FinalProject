@@ -1,4 +1,4 @@
-## Step 3: Train and apply a classification model using Orfeo Toolbox
+## Part 3: Train and apply a classification model using Orfeo Toolbox
 
 > Modules used: os, glob, time, otbApplication (Orfeo Toolbox's Python bindings module to access Orfeo tools from within Python)
 

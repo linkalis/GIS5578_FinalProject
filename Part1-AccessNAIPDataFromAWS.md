@@ -1,4 +1,4 @@
-## Step 1: Access NAIP images via AWS
+## Part 1: Access NAIP images via AWS
 
 > Modules used: pandas, boto3, os
 
