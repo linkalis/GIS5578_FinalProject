@@ -2,9 +2,9 @@
 
 > Alison Link | University of Minnesota | GIS 5578 | Spring Semester 2017
 
-* [Part 0.0](Part0-0-Introduction.md) - **Introduction:** Get acquainted with the data, and focus the project
+* [Part 0.0.](Part0-0-Introduction.md): **Introduction** - Get acquainted with the data, and focus the project
 
-* [Part 0.1](Part0-1-ToolsSetup.md) - **Tools Setup**
+* [Part 0.1.](Part0-1-ToolsSetup.md): **Tools Setup**
 
 * [Part 1](Part1-AccessNAIPDataFromAWS.md): Access NAIP images via AWS
 
@@ -12,6 +12,6 @@
 
 * [Part 3](Part3-ImageClassificationOrfeo.md): Train and apply a classification model using Orfeo Toolbox
 
-* [Part 4](Part4-Conclusion.md) - **Conclusion:** Identifying changes, confusion, and next steps
+* [Part 4](Part4-Conclusion.md): **Conclusion** - Identifying changes, confusion, and next steps
 
-* [References](References.md) - **References**
+* [References](References.md): **References**
